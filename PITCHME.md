@@ -5,10 +5,15 @@
 
 - Clustering
 
+---
 
 ### Reasons to function estimation
-Prediction
-Inference
+ - Prediction
+ - Inference
+
+---
+
+### Supervised Unsupervised Learning
 
 ### Literature
 
